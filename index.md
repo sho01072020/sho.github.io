@@ -1,3 +1,5 @@
+![logo](gold_star.png)
+
 # About
 yay!!  
 yay!!
